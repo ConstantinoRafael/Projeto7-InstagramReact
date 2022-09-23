@@ -195,6 +195,22 @@ body {
   margin-right: 6px;
 }
 
+.heart{
+  margin-right: 6px;
+  color:red;
+  visibility: visible;
+}
+
+.preto{
+  margin-right: 6px;
+  color:black;
+  visibility: visible;
+}
+
+.hidden{
+  display:none;
+}
+
 .post .fundo .curtidas {
   display: flex;
   align-items: center;
